@@ -295,5 +295,15 @@
       "restaurantId": "2"
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "id": "49f28514-e4d2-4f2d-8d60-4093dbe29d7d",
+      "productId": "11",
+      "title": "Mevsim Salata",
+      "price": 7.99,
+      "photo": "https://picsum.photos/210",
+      "restaurantName": "Keyifli Mekan",
+      "amount": 2
+    }
+  ]
 }
